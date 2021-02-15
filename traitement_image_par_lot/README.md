@@ -1,0 +1,1 @@
+Informations complémentaires : http://lesporteslogiques.net/wiki/ressource/code/processing/traitement_par_lot
