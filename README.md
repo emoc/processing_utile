@@ -10,6 +10,10 @@ Exemple de jeu : appuyer sur des boutons ou des combinaisons de bouton dans un t
 
 Changement d'orientation de l'image de la fenêtre dans un buffer pour l'enregistrer (pivoté à gauche, à droite ou à l'envers).
 
+**rotation_image_avec_mogrify**  
+
+Changement d'orientation de l'image de la fenêtre par une commande externe (mogrify) (pivoté à gauche, à droite ou à l'envers).
+
 **sequence_temporelle**  
 
 Comment dérouler une séquence temporelle prédéfinie ?
